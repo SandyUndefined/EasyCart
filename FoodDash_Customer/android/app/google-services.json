@@ -1,1 +1,39 @@
-{  "Replace your file": "1" }
+{
+  "project_info": {
+    "project_number": "869889477024",
+    "project_id": "food-dash-69bd3",
+    "storage_bucket": "food-dash-69bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869889477024:android:869c6d83b847437aa7bcc5",
+        "android_client_info": {
+          "package_name": "com.foodies.customer.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869889477024-oca835ale9u6kgnmsmvsuk1093qi6htc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTTSLsGF11QbFNoU-NSm8lrxRNScHteNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869889477024-oca835ale9u6kgnmsmvsuk1093qi6htc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
