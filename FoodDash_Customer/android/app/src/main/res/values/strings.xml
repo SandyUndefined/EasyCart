@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Foodies</string>
-    <string name="facebook_app_id">227255426044574</string>
-    <string name="fb_login_protocol_scheme">fb227255426044574</string>
+    <string name="app_name">FoodDash</string>
+    <string name="facebook_app_id">6808029515879226</string>
+    <string name="fb_login_protocol_scheme">ff811f2108b8269336c37a522a73c797</string>
 </resources>
