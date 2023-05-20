@@ -24,15 +24,13 @@ const SECOND_MILLIS = 1000;
 const MINUTE_MILLIS = 60 * SECOND_MILLIS;
 const HOUR_MILLIS = 60 * MINUTE_MILLIS;
 const SERVER_KEY =
-    'AAAAQBUQI6c:APA91bH8psxznjF63YiAhtZxfhSzui5YmG_Y6V7CTc9F50q9uezlt5xpd0HQ7QH0Cw9bQBvmbE9AMSpO0lwttKeJyQTiGE8tR5XhHcMuJWnNeqO7md2j0v83fyCaU_MuUCxVsFY4RVUe';
+    'AAAAWU5lquY:APA91bEvobpcP0eME9aN0HttetapAj6FEGOlHvLXcfTt4iHGs9tJEkgT3py8vsEN8VwmBIS7-ibbK6HAi1kB5vT6YUqInruotb7HUSJmCi6HHXzyqN-J_L6vlirgPRs3sLdHZPOlxspV';
 String GOOGLE_API_KEY = '';
-
 
 bool isRazorPayEnabled = false;
 bool isRazorPaySandboxEnabled = false;
 String razorpayKey = "";
 String razorpaySecret = "";
-
 
 String placeholderImage =
     'https://firebasestorage.googleapis.com/v0/b/foodies-3c1d9.appspot.com/o/images%2Fplace_holder.png?alt=media&token=f391844e-0f04-44ed-bf37-e6a1c7d91020';
@@ -53,7 +51,6 @@ const USER_ROLE_DRIVER = 'driver';
 
 const DEFAULT_CAR_IMAGE = 'https://firebasestorage.googleapis'
     '.com/v0/b/production-a9404.appspot.com/o/uberEats%2Fdrivers%2FcarImages%2Fcar_default_image.png?alt=media&token=6381a50f-a71e-423b-bca2-ecdfb1dda664';
-
 
 String minimumDepositToRideAccept = "0.0";
 String minimumAmountToWithdrawal = "0.0";
