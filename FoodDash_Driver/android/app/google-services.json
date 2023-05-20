@@ -1,1 +1,47 @@
-{  "Replace your file": "1" }
+{
+  "project_info": {
+    "project_number": "383567375078",
+    "project_id": "fooddash-driver",
+    "storage_bucket": "fooddash-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383567375078:android:000db542bcd1efa1806927",
+        "android_client_info": {
+          "package_name": "com.foodies.driver.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383567375078-m1ii9csie9tpvnum86ht3bmdbch8sba9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodies.driver.android",
+            "certificate_hash": "b304826bd1a3003271ae72c2140703281ea27d42"
+          }
+        },
+        {
+          "client_id": "383567375078-i53if96ccedg3b0dsvuncrfro2acik4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8qZNWSAc9LFpH2m_-pvgb0jw_xhfs9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383567375078-i53if96ccedg3b0dsvuncrfro2acik4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
