@@ -33,7 +33,8 @@ const OrderTransaction = "order_transactions";
 const SECOND_MILLIS = 1000;
 const MINUTE_MILLIS = 60 * SECOND_MILLIS;
 const HOUR_MILLIS = 60 * MINUTE_MILLIS;
-const SERVER_KEY = 'AAAAQBUQI6c:APA91bH8psxznjF63YiAhtZxfhSzui5YmG_Y6V7CTc9F50q9uezlt5xpd0HQ7QH0Cw9bQBvmbE9AMSpO0lwttKeJyQTiGE8tR5XhHcMuJWnNeqO7md2j0v83fyCaU_MuUCxVsFY4RVUe';
+const SERVER_KEY =
+    'AAAAoCC1bFw:APA91bF44ZSkIwA0yqk5BPxnm2UmfuLxSrhucjJhge9noxfqkqxLk3iZXgCCN1jRzgmrZPAE5r-4elO2MftgrUcIsnZsPxPYfiOeWiT_LWMEcIwws6xWS-J-nI9jgWNwVlPEGjJi0xQx';
 String GOOGLE_API_KEY = '';
 
 const ORDER_STATUS_PLACED = 'Order Placed';
