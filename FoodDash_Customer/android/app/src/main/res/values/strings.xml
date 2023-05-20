@@ -2,5 +2,6 @@
 <resources>
     <string name="app_name">FoodDash</string>
     <string name="facebook_app_id">6808029515879226</string>
-    <string name="fb_login_protocol_scheme">ff811f2108b8269336c37a522a73c797</string>
+    <string name="fb_login_protocol_scheme">fb6808029515879226</string>
+    <string name="facebook_client_token">ff811f2108b8269336c37a522a73c797</string>
 </resources>
