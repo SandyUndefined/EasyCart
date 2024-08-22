@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Restaurant Dashboard</string>
-    <string name="facebook_app_id">807749307416260</string>
-    <string name="fb_login_protocol_scheme">fb807749307416260</string>
-    <string name="facebook_client_token">671a7307883c5c82459b3534283dbb48</string>
-</resources>

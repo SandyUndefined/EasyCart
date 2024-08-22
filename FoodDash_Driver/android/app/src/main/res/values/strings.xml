@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Foodie Driver</string>
-    <string name="facebook_app_id">1594848381038500</string>
-    <string name="fb_login_protocol_scheme">fb1594848381038500</string>
-    <string name="facebook_client_token">c6094b6564d134fb81d5df7d64220ffe</string>
-</resources>
